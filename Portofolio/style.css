@@ -1,0 +1,25 @@
+.jumbotron {
+  padding-top: 8rem;
+  padding-bottom: 6rem;
+  background-image: url(img/header.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -100px;
+  color: aliceblue;
+}
+
+#about {
+  padding-top: 6rem;
+}
+
+#product {
+  background-color: #9dccdf;
+}
+
+footer {
+  background-color: #3080a0;
+}
+
+section {
+  padding-top: 5rem;
+}
